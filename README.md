@@ -20,7 +20,7 @@ No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em am
 
 | Projeto | Tipo | Tecnologias | Status |
 |--------|------|-------------|--------|
-| **TodoMVC Test Plan** | Plano de Testes + Execução | Jira, Gherkin, Excel | ✔ Finalizado |
+| **TodoMVC Test Plan** | História de funcionalidade + Plano de Testes | Jira, Gherkin, Excel | ✔ Finalizado |
 | **API Tests Lab** | Testes de API | Postman, Newman, PactumJS | 🚧 Em construção |
 | **Automação Web Portfolio** | Testes Automatizados Web | Cypress + CI Pipeline | 🚧 Em construção |
 | **Performance Stress Tests** | Testes de carga e stress | K6 | ❗ Em breve |
