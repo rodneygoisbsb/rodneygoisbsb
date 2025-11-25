@@ -1,4 +1,4 @@
-# 👋 Fala, eu sou o Rodney
+# 👋 Seja bem vindo(a)
 
 Atuo em Qualidade de Software com foco em testes funcionais e automação. Hoje estou evoluindo de QA Manual para um modelo híbrido (Manual + Automação), construindo testes Web, API e performance enquanto aplico boas práticas como versionamento com Git, BDD e CI/CD.
 
