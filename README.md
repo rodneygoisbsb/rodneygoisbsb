@@ -1,4 +1,4 @@
-# 👋 Seja bem vindo(a)
+# Seja bem vindo(a)
 
 Atuo em Qualidade de Software com foco em testes funcionais e automação. Hoje estou evoluindo de QA Manual para um modelo híbrido (Manual + Automação), construindo testes Web, API e performance enquanto aplico boas práticas como versionamento com Git, BDD e CI/CD.
 
@@ -6,7 +6,7 @@ No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em am
 
 ---
 
-## 🚀 Agora eu estou focado em:
+## Agora eu estou focado em:
 
 - Automação Web com **Cypress**
 - Automação de API utilizando **Postman/Newman, PactumJS e K6**
@@ -16,7 +16,7 @@ No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em am
 
 ---
 
-## 📂 Projetos Práticos
+## Projetos Práticos
 
 | Projeto | Tipo | Tecnologias | Status |
 |--------|------|-------------|--------|
@@ -29,7 +29,7 @@ No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em am
 
 ---
 
-## 🧪 Stack Técnica
+## Stack Técnica
 
 **Testes Web & API**
 - Cypress | Robot Framework | Postman/Newman | PactumJS | K6
@@ -42,7 +42,7 @@ No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em am
 
 ---
 
-## 📈 Roadmap Atual
+## Roadmap Atual
 
 - [x] CTFL — concluído
 - [x] Projetos manuais documentados
@@ -52,7 +52,7 @@ No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em am
 
 ---
 
-## 🌐 Redes
+## Redes
 
 [LinkedIn](https://www.linkedin.com/in/rodney-gois/) • [Instagram](https://www.instagram.com/rodneygois/) • Repositórios no GitHub
 
