@@ -1,58 +1,48 @@
-# Seja bem vindo(a)
+# Olá! sejam bem vindos! 👋
 
-Atuo em Qualidade de Software com foco em testes funcionais e automação. Hoje estou evoluindo de QA Manual para um modelo híbrido (Manual + Automação), construindo testes Web, API e performance enquanto aplico boas práticas como versionamento com Git, BDD e CI/CD.
+**QA Engineer | Automação (Cypress) | DevOps & CI/CD**
 
-No momento, participo do projeto voluntário **Pipoca Ágil**, trabalhando em ambiente colaborativo com squads, documentação e execução de testes reais.
+Atuo com **Garantia de Qualidade de Software**, combinando análise de requisitos, testes exploratórios e automação. Minha trajetória é marcada pela evolução contínua: de testes manuais à implementação de pipelines de CI/CD
 
----
-
-## Agora eu estou focado em:
-
-- Automação Web com **Cypress**
-- Automação de API utilizando **Postman/Newman, PactumJS e K6**
-- Testes exploratórios, regressão e análise de requisitos
-- BDD com **Gherkin** e integração com pipelines de CI/CD
-- Organização e versionamento com **Git e GitHub Projects**
+Atualmente, sou QA voluntário no **Lacrei Saúde**, garantindo a qualidade de uma plataforma de impacto social através de validações críticas em ambientes responsivos
 
 ---
 
-## Projetos Práticos
-
-| Projeto | Tipo | Tecnologias | Status |
-|--------|------|-------------|--------|
-| **TodoMVC Test Plan** | História de funcionalidade + Plano de Testes | Jira, Gherkin, Excel | ✔ Finalizado |
-| **API Tests Lab** | Testes de API | Postman, Newman, PactumJS | 🚧 Em construção |
-| **Automação Web Portfolio** | Testes Automatizados Web | Cypress + CI Pipeline | 🚧 Em construção |
-| **Performance Stress Tests** | Testes de carga e stress | K6 | ❗ Em breve |
-
-> Cada projeto possui documentação clara, cenários de teste, critérios de aceitação e evidências.
+### 🚀 Especialidades
+* **Automação Web:** Scripts com **Cypress** (Page Objects, Intercepts, Fixtures)
+* **API Testing:** Validação de contratos e integração com **Postman**
+* **DevOps:** Integração de testes em pipelines de **CI/CD** (GitHub Actions)
+* **Gestão:** Documentação via **Notion**/ **Jira** e BDD com **Gherkin**
 
 ---
 
-## Stack Técnica
+### 🏆 Portfólio de Projetos
 
-**Testes Web & API**
-- Cypress | Robot Framework | Postman/Newman | PactumJS | K6
-
-**Dev & Versionamento**
-- Git | GitHub | GitHub Actions
-
-**Documentação**
-- Gherkin | Jira | Miro | Markdown | Excel
-
----
-
-## Roadmap Atual
-
-- [x] CTFL — concluído
-- [x] Projetos manuais documentados
-- [ ] Automação Web completa com pipelines
-- [ ] Automação de API + testes de performance
-- [ ] Mobile (Appium ou Maestro) — etapa futura
+| Projeto | O que foi entregue | Status |
+| :--- | :--- | :--- |
+| **[Desafio Sea Tecnologia](LINK_DO_REPO)** | Automação E2E completa com geração de massa dinâmica (Faker.js) e relatórios | ✅ Finalizado |
+| **[Lacrei Saúde](LINK_DO_REPO)** | Validação de fluxos críticos da plataforma Web (Responsivo) aplicando Automação e DevOps | ✅ Finalizado |
+| **[TodoMVC Test Plan](LINK_DO_REPO)** | Plano de testes completo: Análise de requisitos, BDD/Gherkin e gestão via Notion | ✅ Finalizado |
+| **[JS Star Wars](LINK_DO_REPO)** | Lógica de programação com JavaScript para QAs (Curso Fernando Papito). Base técnica para automação | ✅ Finalizado |
+| **[WebDojo](LINK_DO_REPO)** | Desafios avançados de Cypress (Curso Ninja). Campo de treinamento prático | 🚧 Em andamento |
 
 ---
 
-## Redes
+### 🛠️ Tech Stack
+* **Automação:** Cypress, Postman, PactumJS, k6
+* **Versionamento:** Git, GitHub
+* **Documentação:** Jira, Confluence, Miro, Gherkin
+* **Linguagens:** JavaScript
 
-[LinkedIn](https://www.linkedin.com/in/rodney-gois/) • [Instagram](https://www.instagram.com/rodneygois/) • Repositórios no GitHub
+---
 
+### 🗺️ Roadmap & Conquistas
+- [x] Certificação CTFL (ISTQB)
+- [x] Automação Web completa com Pipelines de CI/CD
+- [x] Portfólio de Projetos Manuais e Automatizados
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodney-gois/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rodneygois/)
