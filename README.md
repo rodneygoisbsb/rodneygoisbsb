@@ -1,6 +1,6 @@
 # Olá! sejam bem vindos! 👋
 
-**QA Engineer | Automação (Cypress) | DevOps & CI/CD**
+**QA Engineer | Automação (Cypress) |  CI/CD**
 
 Atuo com **Garantia de Qualidade de Software**, combinando análise de requisitos, testes exploratórios e automação. Minha trajetória é marcada pela evolução contínua: de testes manuais à implementação de pipelines de CI/CD
 
@@ -20,10 +20,12 @@ Atualmente, sou QA voluntário no **Lacrei Saúde**, garantindo a qualidade de u
 
 | Projeto | O que foi entregue | Status |
 | :--- | :--- | :--- |
-| **[Desafio Sea Tecnologia](https://github.com/rodneygoisbsb/desafioqa-sea-tecnologia)** | Automação E2E completa com geração de massa dinâmica (Faker.js) e relatórios | ✅ Finalizado |
+
 | **[Lacrei Saúde](https://github.com/rodneygoisbsb/qa-lacrei-saude-desafio)** | Validação de fluxos críticos da plataforma Web (Responsivo) aplicando Automação e DevOps | ✅ Finalizado |
+| **[Cypress do Zero a Núvem](https://github.com/rodneygoisbsb/cypress-do-zero-a-nuvem.git)** | Automação E2E com Cypress: estruturação do zero, Custom Commands e Clean Code | ✅ Finalizado |
 | **[TodoMVC Test Plan](https://github.com/rodneygoisbsb/qa-todomvc-portfolio)** | Plano de testes completo: Análise de requisitos, BDD/Gherkin e gestão via Notion | ✅ Finalizado |
 | **[JS Star Wars](https://github.com/rodneygoisbsb/javascript-qa-starwas)** | Lógica de programação com JavaScript para QAs (Curso Fernando Papito). Base técnica para automação | ✅ Finalizado |
+| **[Desafio Sea Tecnologia](https://github.com/rodneygoisbsb/desafioqa-sea-tecnologia)** | Automação E2E completa com geração de massa dinâmica (Faker.js) e relatórios | ✅ Finalizado |
 | **[WebDojo](https://github.com/rodneygoisbsb/webdojo)** | Desafios avançados de Cypress (Curso Ninja). Campo de treinamento prático | 🚧 Em andamento |
 
 ---
