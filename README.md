@@ -30,16 +30,15 @@ Atualmente, sou QA voluntário no **Lacrei Saúde**, garantindo a qualidade de u
 ---
 
 ### 🛠️ Tech Stack
-* **Automação:** Cypress, Postman, PactumJS, k6
+* **Automação:** Cypress, Postman, k6 + Grafana
 * **Versionamento:** Git, GitHub
-* **Documentação:** Jira, Confluence, Miro, Gherkin
+* **Documentação:** Jira, Miro, Trello, Notion, Gherkin
 * **Linguagens:** JavaScript
 
 ---
 
 ### 🗺️ Roadmap & Conquistas
 - [x] Certificação CTFL (ISTQB)
-- [x] Automação Web completa com Pipelines de CI/CD
 - [x] Portfólio de Projetos Manuais e Automatizados
 
 ---
